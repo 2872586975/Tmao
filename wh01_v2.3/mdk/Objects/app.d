@@ -1,0 +1,10 @@
+.\objects\app.o: ..\app\app.c
+.\objects\app.o: ..\os\OS_System.h
+.\objects\app.o: ..\hal\hal_led.h
+.\objects\app.o: ..\hal\hal_key.h
+.\objects\app.o: ..\hal\hal_oled.h
+.\objects\app.o: ..\hal\hal_rfd.h
+.\objects\app.o: ..\hal\hal_eeprom.h
+.\objects\app.o: ..\hal\hal_beep.h
+.\objects\app.o: ..\app\para.h
+.\objects\app.o: ..\app\app.h

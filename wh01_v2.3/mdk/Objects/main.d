@@ -1,0 +1,9 @@
+.\objects\main.o: ..\user\main.c
+.\objects\main.o: ..\hal\hal_led.h
+.\objects\main.o: ..\hal\hal_cpu.h
+.\objects\main.o: ..\hal\hal_time.h
+.\objects\main.o: ..\hal\hal_key.h
+.\objects\main.o: ..\hal\hal_rfd.h
+.\objects\main.o: ..\hal\hal_usart.h
+.\objects\main.o: ..\app\app.h
+.\objects\main.o: ..\os\OS_System.h

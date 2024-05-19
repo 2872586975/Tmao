@@ -1,0 +1,16 @@
+.\objects\hal_beep.o: ..\hal\hal_beep.c
+.\objects\hal_beep.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32F10x.h
+.\objects\hal_beep.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\objects\hal_beep.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hal_beep.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h
+.\objects\hal_beep.o: ..\user\stm32f10x_conf.h
+.\objects\hal_beep.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\objects\hal_beep.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h
+.\objects\hal_beep.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\hal_beep.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\hal_beep.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\objects\hal_beep.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\hal_beep.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\objects\hal_beep.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\objects\hal_beep.o: ..\hal\hal_time.h
+.\objects\hal_beep.o: ..\hal\hal_beep.h
